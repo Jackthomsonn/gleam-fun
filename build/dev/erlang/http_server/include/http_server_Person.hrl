@@ -1,0 +1,1 @@
+-record(person, {name :: binary(), age :: integer(), location :: list(binary())}).

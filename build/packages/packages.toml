@@ -1,0 +1,10 @@
+[packages]
+thoas = "1.2.1"
+gleam_erlang = "0.25.0"
+gleam_otp = "0.10.0"
+gleam_http = "3.6.0"
+gleam_stdlib = "0.37.0"
+gleam_json = "1.0.1"
+elli = "3.3.0"
+gleam_elli = "2.4.0"
+gleeunit = "1.1.2"

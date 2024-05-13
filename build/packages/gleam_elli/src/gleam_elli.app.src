@@ -1,0 +1,13 @@
+{application, gleam_elli, [
+    {vsn, "2.4.0"},
+    {applications, [elli,
+                    gleam_erlang,
+                    gleam_hackney,
+                    gleam_http,
+                    gleam_otp,
+                    gleam_stdlib,
+                    gleeunit]},
+    {description, "Run Gleam HTTP services with the Elli web server"},
+    {modules, [gleam@http@elli]},
+    {registered, []}
+]}.
